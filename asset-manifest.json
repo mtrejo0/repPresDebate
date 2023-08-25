@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/repPresDebate/static/js/main.b8567780.js",
+    "index.html": "/repPresDebate/index.html",
+    "main.b8567780.js.map": "/repPresDebate/static/js/main.b8567780.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b8567780.js"
+  ]
+}
